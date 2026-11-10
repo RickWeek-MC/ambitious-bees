@@ -1,0 +1,25 @@
+{
+  "authority": "RickWeek",
+  "complexity": 5,
+  "genome": {
+    "forestry:bee_effect": {
+      "value": "ambitious_bees:honeyfication"
+    },
+    "forestry:lifespan": {
+      "value": 30
+    },
+    "forestry:speed": {
+      "value": 1.0
+    }
+  },
+  "genus": "fabrapis",
+  "outline": 14377239,
+  "products": [
+    {
+      "chance": 0.3,
+      "item": "forestry:honey_comb"
+    }
+  ],
+  "species": "mellifornax",
+  "stripes": 0
+}

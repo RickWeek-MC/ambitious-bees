@@ -1,0 +1,41 @@
+# Gradle
+.gradle/
+build/
+
+# IntelliJ
+.idea/
+*.iml
+*.ipr
+*.iws
+out/
+
+# Other editors / OS
+.vscode/
+.classpath
+.project
+.settings/
+bin/
+*.swp
+.DS_Store
+Thumbs.db
+
+# Minecraft dev runs
+run/
+runs/
+logs/
+hs_err_pid*
+crash-reports/
+
+# Third-party jars (Forestry CE, Patchouli, JEI) must not be committed
+libs/*.jar
+
+# Generated data (remove this line if you want to commit datagen output)
+# src/generated/
+src/generated/resources/.cache/
+
+# Personal working files (not part of the mod)
+Claude outputs/
+PROGRESS.md
+docs/
+extras/
+police_bee_*.png

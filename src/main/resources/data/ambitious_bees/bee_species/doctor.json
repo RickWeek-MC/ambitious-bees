@@ -1,0 +1,26 @@
+{
+  "authority": "RickWeek",
+  "complexity": 5,
+  "genome": {
+    "forestry:bee_effect": {
+      "value": "ambitious_bees:healing"
+    },
+    "forestry:lifespan": {
+      "value": 40
+    },
+    "forestry:speed": {
+      "value": 0.8
+    }
+  },
+  "genus": "medapis",
+  "outline": 15266290,
+  "products": [
+    {
+      "chance": 0.3,
+      "item": "forestry:honey_comb"
+    }
+  ],
+  "species": "medicus",
+  "stripes": 12597547,
+  "body": 36506
+}

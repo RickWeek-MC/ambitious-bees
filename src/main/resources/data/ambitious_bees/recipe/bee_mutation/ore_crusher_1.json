@@ -1,0 +1,8 @@
+{
+  "type": "forestry:bee_mutation",
+  "chance": 0.06,
+  "first": "ambitious_bees:mason",
+  "id": "ambitious_bees:bee_mutation/ore_crusher_1",
+  "result": "ambitious_bees:ore_crusher",
+  "second": "ambitious_bees:sharpening"
+}

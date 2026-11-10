@@ -1,0 +1,8 @@
+{
+  "type": "forestry:bee_mutation",
+  "chance": 0.02,
+  "first": "ambitious_bees:quantum_strange",
+  "id": "ambitious_bees:bee_mutation/temporal_1",
+  "result": "ambitious_bees:temporal",
+  "second": "ambitious_bees:quantum_charming"
+}

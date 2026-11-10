@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " C ",
+    "YFN",
+    " C "
+  ],
+  "key": {
+    "C": {
+      "item": "minecraft:clock"
+    },
+    "Y": {
+      "item": "ambitious_bees:yang_essence"
+    },
+    "N": {
+      "item": "ambitious_bees:yin_essence"
+    },
+    "F": {
+      "item": "forestry:proven_frame"
+    }
+  },
+  "result": {
+    "id": "ambitious_bees:eternal_frame",
+    "count": 1
+  }
+}

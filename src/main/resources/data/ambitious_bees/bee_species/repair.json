@@ -1,0 +1,25 @@
+{
+  "authority": "RickWeek",
+  "complexity": 6,
+  "genome": {
+    "forestry:bee_effect": {
+      "value": "ambitious_bees:repair"
+    },
+    "forestry:lifespan": {
+      "value": 30
+    },
+    "forestry:speed": {
+      "value": 0.9
+    }
+  },
+  "genus": "fabrapis",
+  "outline": 6710886,
+  "products": [
+    {
+      "chance": 0.4,
+      "item": "forestry:honey_comb"
+    }
+  ],
+  "species": "reparator",
+  "stripes": 5592575
+}

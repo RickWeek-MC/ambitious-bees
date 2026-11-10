@@ -1,0 +1,25 @@
+{
+  "authority": "RickWeek",
+  "complexity": 7,
+  "genome": {
+    "forestry:bee_effect": {
+      "value": "ambitious_bees:burning"
+    },
+    "forestry:lifespan": {
+      "value": 30
+    },
+    "forestry:speed": {
+      "value": 1.0
+    }
+  },
+  "genus": "fabrapis",
+  "outline": 12124674,
+  "products": [
+    {
+      "chance": 0.3,
+      "item": "forestry:honey_comb"
+    }
+  ],
+  "species": "diabolus",
+  "stripes": 0
+}

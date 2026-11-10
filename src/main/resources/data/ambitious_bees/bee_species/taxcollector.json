@@ -1,0 +1,26 @@
+{
+  "authority": "RickWeek",
+  "complexity": 7,
+  "genome": {
+    "forestry:bee_effect": {
+      "value": "ambitious_bees:taxing"
+    },
+    "forestry:lifespan": {
+      "value": 30
+    },
+    "forestry:speed": {
+      "value": 1.0
+    }
+  },
+  "genus": "fabrapis",
+  "outline": 8569664,
+  "products": [
+    {
+      "chance": 0.3,
+      "item": "forestry:honey_comb"
+    }
+  ],
+  "species": "exactor",
+  "stripes": 0,
+  "body": 9605264
+}

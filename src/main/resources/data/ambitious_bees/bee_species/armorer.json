@@ -1,0 +1,25 @@
+{
+  "authority": "RickWeek",
+  "complexity": 4,
+  "genome": {
+    "forestry:bee_effect": {
+      "value": "ambitious_bees:armoring"
+    },
+    "forestry:lifespan": {
+      "value": 30
+    },
+    "forestry:speed": {
+      "value": 0.9
+    }
+  },
+  "genus": "fabrapis",
+  "outline": 8421504,
+  "products": [
+    {
+      "chance": 0.4,
+      "item": "forestry:honey_comb"
+    }
+  ],
+  "species": "armatus",
+  "stripes": 12632256
+}

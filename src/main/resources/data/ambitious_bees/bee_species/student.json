@@ -1,0 +1,21 @@
+{
+  "authority": "RickWeek",
+  "complexity": 2,
+  "genome": {
+    "forestry:lifespan": {
+      "value": 30
+    },
+    "forestry:speed": {
+      "value": 0.8
+    }
+  },
+  "genus": "scholapis",
+  "outline": 4878245,
+  "products": [
+    {
+      "chance": 0.3,
+      "item": "forestry:honey_comb"
+    }
+  ],
+  "species": "discens"
+}

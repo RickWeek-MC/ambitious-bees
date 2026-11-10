@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "ABA",
+    " A "
+  ],
+  "key": {
+    "A": { "item": "minecraft:stick" },
+    "B": { "tag": "minecraft:flowers" }
+  },
+  "result": {
+    "id": "ambitious_bees:flower_pedestal",
+    "count": 1
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "authority": "RickWeek",
+  "complexity": 3,
+  "genome": {
+    "forestry:bee_effect": {
+      "value": "ambitious_bees:collecting"
+    },
+    "forestry:lifespan": {
+      "value": 30
+    },
+    "forestry:speed": {
+      "value": 1.0
+    }
+  },
+  "genus": "fabrapis",
+  "outline": 7032366,
+  "products": [
+    {
+      "chance": 0.3,
+      "item": "forestry:honey_comb"
+    }
+  ],
+  "species": "colligens",
+  "stripes": 14267244
+}

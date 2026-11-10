@@ -1,0 +1,23 @@
+{
+  "authority": "RickWeek",
+  "complexity": 8,
+  "genome": {
+    "forestry:lifespan": {
+      "value": 30
+    },
+    "forestry:speed": {
+      "value": 1.0
+    }
+  },
+  "genus": "fabrapis",
+  "outline": 3684151,
+  "products": [
+    {
+      "chance": 0.3,
+      "item": "forestry:honey_comb"
+    }
+  ],
+  "species": "automaton",
+  "stripes": 3684151,
+  "body": 3684151
+}

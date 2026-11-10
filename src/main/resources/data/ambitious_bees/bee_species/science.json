@@ -1,0 +1,23 @@
+{
+  "authority": "RickWeek",
+  "complexity": 6,
+  "genome": {
+    "forestry:lifespan": {
+      "value": 30
+    },
+    "forestry:speed": {
+      "value": 1.0
+    }
+  },
+  "genus": "fabrapis",
+  "outline": 16777215,
+  "products": [
+    {
+      "chance": 0.3,
+      "item": "forestry:honey_comb"
+    }
+  ],
+  "species": "scientia",
+  "stripes": 0,
+  "body": 12500670
+}

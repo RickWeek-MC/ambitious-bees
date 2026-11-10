@@ -1,0 +1,8 @@
+{
+  "type": "forestry:bee_mutation",
+  "chance": 0.06,
+  "first": "ambitious_bees:yente",
+  "id": "ambitious_bees:bee_mutation/priest_1",
+  "result": "ambitious_bees:priest",
+  "second": "forestry:noble"
+}

@@ -1,0 +1,7 @@
+{
+  "type": "ambitious_bees:blessing",
+  "dominant": false,
+  "throttle": 1200,
+  "max_level": 3,
+  "max_enchantments": 3
+}

@@ -1,0 +1,26 @@
+{
+  "authority": "RickWeek",
+  "complexity": 8,
+  "genome": {
+    "forestry:bee_effect": {
+      "value": "ambitious_bees:assassinating"
+    },
+    "forestry:lifespan": {
+      "value": 30
+    },
+    "forestry:speed": {
+      "value": 1.0
+    }
+  },
+  "genus": "fabrapis",
+  "outline": 15856113,
+  "products": [
+    {
+      "chance": 0.3,
+      "item": "forestry:honey_comb"
+    }
+  ],
+  "species": "sicarius",
+  "stripes": 9896707,
+  "body": 592139
+}

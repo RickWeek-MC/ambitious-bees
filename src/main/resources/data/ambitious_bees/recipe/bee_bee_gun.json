@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "A": {
+      "item": "minecraft:piston"
+    },
+    "B": {
+      "item": "ambitious_bees:honey_comb_ingot"
+    },
+    "C": {
+      "item": "minecraft:redstone_block"
+    },
+    "D": {
+      "item": "minecraft:iron_ingot"
+    },
+    "E": {
+      "item": "minecraft:stick"
+    }
+  },
+  "pattern": [
+    "ABB",
+    "CBB",
+    " DE"
+  ],
+  "result": {
+    "id": "ambitious_bees:bee_bee_gun",
+    "count": 1
+  }
+}

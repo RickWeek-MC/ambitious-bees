@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "SSS",
+    "SPS",
+    "SSS"
+  ],
+  "key": {
+    "S": {
+      "item": "minecraft:stick"
+    },
+    "P": {
+      "type": "ambitious_bees:poison_potion"
+    }
+  },
+  "result": {
+    "id": "ambitious_bees:poison_frame",
+    "count": 1
+  }
+}

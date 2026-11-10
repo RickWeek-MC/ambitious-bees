@@ -1,0 +1,25 @@
+{
+  "authority": "RickWeek",
+  "complexity": 5,
+  "genome": {
+    "forestry:bee_effect": {
+      "value": "ambitious_bees:sharpening"
+    },
+    "forestry:lifespan": {
+      "value": 30
+    },
+    "forestry:speed": {
+      "value": 0.9
+    }
+  },
+  "genus": "fabrapis",
+  "outline": 10526880,
+  "products": [
+    {
+      "chance": 0.4,
+      "item": "forestry:honey_comb"
+    }
+  ],
+  "species": "acutus",
+  "stripes": 14737632
+}

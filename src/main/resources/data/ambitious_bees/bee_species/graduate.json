@@ -1,0 +1,24 @@
+{
+  "authority": "RickWeek",
+  "complexity": 3,
+  "genome": {
+    "forestry:bee_effect": {
+      "value": "ambitious_bees:retraining"
+    },
+    "forestry:lifespan": {
+      "value": 35
+    },
+    "forestry:speed": {
+      "value": 0.9
+    }
+  },
+  "genus": "scholapis",
+  "outline": 2046568,
+  "products": [
+    {
+      "chance": 0.35,
+      "item": "forestry:honey_comb"
+    }
+  ],
+  "species": "graduatus"
+}

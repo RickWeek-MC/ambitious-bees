@@ -1,0 +1,26 @@
+{
+  "authority": "RickWeek",
+  "complexity": 7,
+  "genome": {
+    "forestry:bee_effect": {
+      "value": "ambitious_bees:tinkering"
+    },
+    "forestry:lifespan": {
+      "value": 30
+    },
+    "forestry:speed": {
+      "value": 1.0
+    }
+  },
+  "genus": "fabrapis",
+  "outline": 12645611,
+  "products": [
+    {
+      "chance": 0.3,
+      "item": "forestry:honey_comb"
+    }
+  ],
+  "species": "insanus",
+  "stripes": 2607787,
+  "body": 14548214
+}

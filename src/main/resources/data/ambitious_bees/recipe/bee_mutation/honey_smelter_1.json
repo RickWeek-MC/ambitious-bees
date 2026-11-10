@@ -1,0 +1,18 @@
+{
+  "type": "forestry:bee_mutation",
+  "chance": 0.06,
+  "conditions": [
+    {
+      "type": "forestry:requires_resource",
+      "blocks": [
+        {
+          "Name": "minecraft:iron_block"
+        }
+      ]
+    }
+  ],
+  "first": "ambitious_bees:smelter",
+  "id": "ambitious_bees:bee_mutation/honey_smelter_1",
+  "result": "ambitious_bees:honey_smelter",
+  "second": "forestry:cultivated"
+}

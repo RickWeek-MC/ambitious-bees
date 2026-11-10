@@ -1,0 +1,8 @@
+{
+  "type": "forestry:bee_mutation",
+  "chance": 0.03,
+  "first": "ambitious_bees:clockwork",
+  "id": "ambitious_bees:bee_mutation/robot_1",
+  "result": "ambitious_bees:robot",
+  "second": "ambitious_bees:electrician"
+}

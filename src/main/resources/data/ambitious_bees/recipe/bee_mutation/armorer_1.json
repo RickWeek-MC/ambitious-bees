@@ -1,0 +1,9 @@
+{
+  "type": "forestry:bee_mutation",
+  "chance": 0.08,
+  "conditions": [ { "type": "forestry:requires_resource", "blocks": [ { "Name": "minecraft:anvil" } ] } ],
+  "first": "ambitious_bees:graduate",
+  "id": "ambitious_bees:bee_mutation/armorer_1",
+  "result": "ambitious_bees:armorer",
+  "second": "ambitious_bees:graduate"
+}

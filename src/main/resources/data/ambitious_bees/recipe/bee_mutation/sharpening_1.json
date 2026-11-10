@@ -1,0 +1,9 @@
+{
+  "type": "forestry:bee_mutation",
+  "chance": 0.07,
+  
+  "first": "ambitious_bees:graduate",
+  "id": "ambitious_bees:bee_mutation/sharpening_1",
+  "result": "ambitious_bees:sharpening",
+  "second": "ambitious_bees:armorer"
+}

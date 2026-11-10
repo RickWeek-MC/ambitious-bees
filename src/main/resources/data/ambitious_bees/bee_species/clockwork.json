@@ -1,0 +1,26 @@
+{
+  "authority": "RickWeek",
+  "complexity": 6,
+  "genome": {
+    "forestry:bee_effect": {
+      "value": "ambitious_bees:clockwinding"
+    },
+    "forestry:lifespan": {
+      "value": 30
+    },
+    "forestry:speed": {
+      "value": 1.0
+    }
+  },
+  "genus": "fabrapis",
+  "outline": 14009242,
+  "products": [
+    {
+      "chance": 0.3,
+      "item": "forestry:honey_comb"
+    }
+  ],
+  "species": "horologus",
+  "stripes": 8088651,
+  "body": 8088651
+}

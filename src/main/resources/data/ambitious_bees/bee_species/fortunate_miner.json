@@ -1,0 +1,25 @@
+{
+  "authority": "RickWeek",
+  "complexity": 8,
+  "genome": {
+    "forestry:bee_effect": {
+      "value": "ambitious_bees:fortune_mining"
+    },
+    "forestry:lifespan": {
+      "value": 30
+    },
+    "forestry:speed": {
+      "value": 1.0
+    }
+  },
+  "genus": "fabrapis",
+  "outline": 688650,
+  "products": [
+    {
+      "chance": 0.3,
+      "item": "forestry:honey_comb"
+    }
+  ],
+  "species": "felix",
+  "stripes": 0
+}

@@ -1,0 +1,29 @@
+{
+  "authority": "RickWeek",
+  "complexity": 8,
+  "genome": {
+    "forestry:bee_effect": {
+      "value": "ambitious_bees:strange_swap"
+    },
+    "forestry:lifespan": {
+      "value": 30
+    },
+    "forestry:speed": {
+      "value": 1.0
+    }
+  },
+  "genus": "fabrapis",
+  "outline": 8691271,
+  "products": [
+    {
+      "chance": 0.3,
+      "item": "forestry:honey_comb"
+    },
+    {
+      "chance": 0.1,
+      "item": "ambitious_bees:yang_essence"
+    }
+  ],
+  "species": "quantum_peregrinus",
+  "stripes": 13559189
+}

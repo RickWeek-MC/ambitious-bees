@@ -1,0 +1,8 @@
+{
+  "type": "forestry:bee_mutation",
+  "chance": 0.06,
+  "first": "ambitious_bees:smelter",
+  "id": "ambitious_bees:bee_mutation/chef_1",
+  "result": "ambitious_bees:chef",
+  "second": "ambitious_bees:artistic"
+}

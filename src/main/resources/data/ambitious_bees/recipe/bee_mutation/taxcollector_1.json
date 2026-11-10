@@ -1,0 +1,8 @@
+{
+  "type": "forestry:bee_mutation",
+  "chance": 0.05,
+  "first": "ambitious_bees:police",
+  "id": "ambitious_bees:bee_mutation/taxcollector_1",
+  "result": "ambitious_bees:taxcollector",
+  "second": "ambitious_bees:thief"
+}

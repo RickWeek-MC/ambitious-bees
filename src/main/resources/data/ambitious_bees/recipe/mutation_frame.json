@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " D ",
+    "BCA",
+    " D "
+  ],
+  "key": {
+    "A": { "item": "ambitious_bees:yin_essence" },
+    "B": { "item": "ambitious_bees:yang_essence" },
+    "C": { "item": "forestry:proven_frame" },
+    "D": { "item": "minecraft:ender_pearl" }
+  },
+  "result": {
+    "id": "ambitious_bees:mutation_frame",
+    "count": 1
+  }
+}

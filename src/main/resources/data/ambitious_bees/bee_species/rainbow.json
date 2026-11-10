@@ -1,0 +1,87 @@
+{
+  "authority": "RickWeek",
+  "complexity": 7,
+  "genome": {
+    "forestry:lifespan": {
+      "value": 30
+    },
+    "forestry:speed": {
+      "value": 1.0
+    }
+  },
+  "genus": "fabrapis",
+  "outline": 9837283,
+  "products": [
+    {
+      "chance": 0.3,
+      "item": "forestry:honey_comb"
+    },
+    {
+      "chance": 0.08,
+      "item": "minecraft:white_dye"
+    },
+    {
+      "chance": 0.08,
+      "item": "minecraft:orange_dye"
+    },
+    {
+      "chance": 0.08,
+      "item": "minecraft:magenta_dye"
+    },
+    {
+      "chance": 0.08,
+      "item": "minecraft:light_blue_dye"
+    },
+    {
+      "chance": 0.08,
+      "item": "minecraft:yellow_dye"
+    },
+    {
+      "chance": 0.08,
+      "item": "minecraft:lime_dye"
+    },
+    {
+      "chance": 0.08,
+      "item": "minecraft:pink_dye"
+    },
+    {
+      "chance": 0.08,
+      "item": "minecraft:gray_dye"
+    },
+    {
+      "chance": 0.08,
+      "item": "minecraft:light_gray_dye"
+    },
+    {
+      "chance": 0.08,
+      "item": "minecraft:cyan_dye"
+    },
+    {
+      "chance": 0.08,
+      "item": "minecraft:purple_dye"
+    },
+    {
+      "chance": 0.08,
+      "item": "minecraft:blue_dye"
+    },
+    {
+      "chance": 0.08,
+      "item": "minecraft:brown_dye"
+    },
+    {
+      "chance": 0.08,
+      "item": "minecraft:green_dye"
+    },
+    {
+      "chance": 0.08,
+      "item": "minecraft:red_dye"
+    },
+    {
+      "chance": 0.08,
+      "item": "minecraft:black_dye"
+    }
+  ],
+  "species": "iris",
+  "stripes": 3927579,
+  "body": 14879499
+}
